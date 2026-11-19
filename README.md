@@ -16,14 +16,6 @@ I’m a full-stack engineer who likes building things people can learn from. My 
 - **Google · Software Engineer, Search** *(2022–2026)*. I built Voice Search and Search promotion features across web, iOS, and Android. I also built experimentation pipelines that processed more than 200,000 promotion impressions a day.
 - **Google Cloud · Technical Account Manager and Cloud Technical Resident** *(2020–2022)*. I helped enterprise teams with infrastructure planning, migrations, and cloud training.
 
-## Selected projects
-
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| [Kyu](https://github.com/Playground-Labs/Kyu) | Open-source macOS utility for queueing prompts while coding agents are busy or out of tokens. | TypeScript, Tauri, Rust |
-| [Flare](https://github.com/Playground-Labs/Flare-Site) | Standalone product site for the Flare mobile app, with no framework or build step. | HTML, CSS |
-| [Playground Labs](https://github.com/Playground-Labs/PlaygroundLabs-Site) | Source for the studio’s public website. | HTML |
-
 ## Writing
 
 - [System Design in 30 Seconds](https://brandonwilcox.com/blog/system-design-for-jr/)
